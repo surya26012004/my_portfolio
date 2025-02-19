@@ -10,10 +10,12 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        'service_ovgsw9i', 
-        'template_pjx31kp', 
+
+        'service_054k899', 
+        'template_j8fqn25', 
         form.current, {
-        publicKey: 'G4QDfodewhz5SdmcQ',
+        publicKey: 'SwS2qqiubzPlsTqn0',
+
       })
       e.target.reset()
   };
@@ -31,9 +33,11 @@ const Contact = () => {
                     <i className="bx bx-mail-send contact__card-icon"></i>
 
                     <h3 className='contact__card-title'>Email</h3>
-                    <span className='contact__card-data'>s2122003s@gmail.com</span>
 
-                    <a href="mailto:s2122003s@gmail.com" className="contact__button">
+                    <span className='contact__card-data'>surya9393@gmail.com</span>
+
+                    <a href="mailto:surya9393@gmail.com" className="contact__button">
+
                         Write me
                         <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                     </a>
@@ -43,9 +47,10 @@ const Contact = () => {
                     <i className="bx bxl-whatsapp contact__card-icon"></i>
 
                     <h3 className='contact__card-title'>Whatsapp</h3>
-                    <span className='contact__card-data'>+91 6302473365</span>
 
-                    <a href="https://api.whatsapp.com/send?phone=6302473365&text=Hello, more information!" className="contact__button">
+                    <span className='contact__card-data'>+91 9393939167</span>
+
+                    <a href="https://api.whatsapp.com/send?phone=9393939167&text=Hello, more information!" className="contact__button">
                         Write me
                         <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                     </a>

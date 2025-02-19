@@ -16,7 +16,7 @@ const Header = () => {
   return (
     <header className="header" style={{backgroundColor:'#E8E8E8'}}>
         <nav className="nav container">
-            <a href="index.html" className="nav__logo">Sravya</a>
+            <a href="index.html" className="nav__logo">Surya</a>
         <div className={Toggle ? "nav__menu show-menu" : "nav__menu"}>
             <ul className="nav__list grid">
                 <li className="nav__item">

@@ -9,10 +9,11 @@
     align-items: center;
 }
 
-.home__social{
+.home__social {
     display: grid;
-    grid-template-columns: max-content;
+    grid-template-columns : max-content;
     row-gap: 1rem;
+    align-content: space-evenly;
 }
 
 .home__social-icon{

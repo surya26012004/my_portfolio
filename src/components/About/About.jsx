@@ -17,7 +17,7 @@ const About = () => {
               <Info />
 
               <p className="about__description">
-              I am a skilled MERN Developer with expertise in building dynamic and scalable full-stack web applications using MongoDB, Express.js, React.js, and Node.js. I specialize in both front-end and back-end development, delivering seamless and responsive user experiences.</p>
+              I am a skilled Python Developer with expertise in building dynamic and scalable full-stack web applications using MongoDB, Express.js, React.js, and Node.js. I specialize in both front-end and back-end development, delivering seamless and responsive user experiences.</p>
             
             <a download="" href={Resume} className="button button--flex">Download Resume 
             <svg

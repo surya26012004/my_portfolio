@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className="footer">
         <div className="footer__container container">
-            <h1 className="footer__title">Sravya</h1>
+            <h1 className="footer__title">Surya</h1>
 
             <ul className="footer__list">
                 <li>
@@ -22,21 +22,26 @@ const Footer = () => {
             </ul>
 
             <div className="footer__social">
-            <a href="https://www.linkedin.com/in/k--sravya/" className="footer__social-link" target="_blank">
+
+            <a href="https://www.linkedin.com/in/k-surya-4425a22ba/" className="footer__social-link" target="_blank">
         <i class="uil uil-linkedin"></i>
         </a>
 
-        <a href="https://github.com/Sravya-212" className="footer__social-link" target="_blank">
+        <a href="https://github.com/surya26012004" className="footer__social-link" target="_blank">
         <i class="uil uil-github"></i>
         </a>
 
-        <a href="https://x.com/0xSravya" className="footer__social-link" target="_blank">
+        <a href="https://x.com/Surya17168510" className="footer__social-link" target="_blank">
+
         <i class="uil uil-twitter"></i>
         </a>
+        <a href="https://www.upwork.com/freelancers/~01c549e59fb989a93f" className="footer__social-link" target="_blank">upwork
+        <i class="fa-brands fa-square-upwork"></i>
+</a>
         </div>
 
         <span className='footer__copy'>
-            &#169; KamuSravya. All rights reserved
+            &#169; surya. All rights reserved
         </span>
         </div>
     </footer>

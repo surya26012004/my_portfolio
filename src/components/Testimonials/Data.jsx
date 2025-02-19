@@ -15,7 +15,7 @@ export  const Data = [
         image: Image2,
         title: "Eva Singh",
         description: 
-            "Highly skilled girl, met all my expectations within the provided timeline.",
+            "Highly skilled , met all my expectations within the provided timeline.",
     },
     {
         id:3,
