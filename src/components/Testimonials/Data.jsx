@@ -1,4 +1,4 @@
-import Image1 from '../../assets/testimonial1.jpeg';
+import Image1 from '../../assets/testimonial1.png';
 import Image2 from '../../assets/testimonial2.jpeg';
 import Image3 from '../../assets/testimonial3.jpeg';
 
@@ -6,9 +6,9 @@ export  const Data = [
     {
         id:1,
         image: Image1,
-        title: "Luca grassi",
+        title: "John Gerah",
         description: 
-            "A really good job, all aspects of the project were followed step by step and with good results.",
+            "A really good job, all aspects of the project were followed step by step and with good results.You were a fast learner and a good communicator.",
     },
     {
         id:2,
