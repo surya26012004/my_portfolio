@@ -17,7 +17,8 @@ const About = () => {
               <Info />
 
               <p className="about__description">
-              I am a skilled Python Developer with expertise in building dynamic and scalable full-stack web applications using MongoDB, Express.js, React.js, and Node.js. I specialize in both front-end and back-end development, delivering seamless and responsive user experiences.</p>
+              I am a skilled Python Developer with expertise in building dynamic and scalable full-stack web applications using Postgres, React.js, and Node.js. I specialize in both front-end and back-end development, delivering seamless and responsive user experiences.I’m Developing, testing, and debugging code, handling data processing tasks, integrating APIs, and building backend 
+              features by interacting with the development and testing teams.  </p>
             
             <a download="" href={Resume} className="button button--flex">Download Resume 
             <svg

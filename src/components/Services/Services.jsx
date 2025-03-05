@@ -54,7 +54,7 @@ const Services = () => {
 
                         <li className="services__modal-service">
                             <i className="uil uil-check-circle services__modal-icon"></i>
-                            <p className="services__modal-info">I securely deploy and monitor on AWS, Google Cloud, Wordpress.</p>
+                            <p className="services__modal-info">I securely deploy and monitor on AWS,Wordpress.</p>
                         </li>
                     </ul>
                     </div>
@@ -64,7 +64,7 @@ const Services = () => {
             <div className="services__content">
                 <div>
                     <i className='uil uil-arrow services__icon'></i>
-                    <h3 className="services__title">MERN <br />Stack</h3>
+                    <h3 className="services__title">Python <br />Fullstack</h3>
                 </div>
                 <span className="services__button" onClick={()=>toggleTab(2)}>View More
                     <i className="uil uil-arrow-right services__button-icon"></i>
@@ -74,9 +74,9 @@ const Services = () => {
                     <div className="services__modal-content">
                         <i onClick={()=> toggleTab(0)} className="uil uil-times services__modal-close"></i>
                     
-                    <h3 className="services__modal-title">MERN Stack</h3>
+                    <h3 className="services__modal-title">Python Fullstack</h3>
                     <p className="services__modal-description">
-                        Service with around 1 year of experience. Providing quality work to clients and companies.
+                        Service with around 8 months of experience. Providing quality work to clients and companies.
                     </p>
 
                     <ul className="services__modal-services grid">
@@ -112,7 +112,7 @@ const Services = () => {
             <div className="services__content">
                 <div>
                     <i className='uil uil-edit services__icon'></i>
-                    <h3 className="services__title">Blockchain <br /> Development</h3>
+                    <h3 className="services__title">DevOps <br /> Development</h3>
                 </div>
                 <span className="services__button" onClick={()=>toggleTab(3)}>View More
                     <i className="uil uil-arrow-right services__button-icon"></i>
@@ -122,9 +122,9 @@ const Services = () => {
                     <div className="services__modal-content">
                         <i onClick={()=> toggleTab(0)} className="uil uil-times services__modal-close"></i>
                     
-                    <h3 className="services__modal-title">Blockchain Development</h3>
+                    <h3 className="services__modal-title">DevOps Development</h3>
                     <p className="services__modal-description">
-                        Service with more than 3 years of experience. Providing quality work to clients and companies.
+                        Learning ,Developing,Making quality work 
                     </p>
 
                     <ul className="services__modal-services grid">
@@ -140,12 +140,12 @@ const Services = () => {
 
                         <li className="services__modal-service">
                             <i className="uil uil-check-circle services__modal-icon"></i>
-                            <p className="services__modal-info">Backend with Ethereum, Polygon and BSC chains.</p>
+                            <p className="services__modal-info">Backend with Django.</p>
                         </li>
 
                         <li className="services__modal-service">
                             <i className="uil uil-check-circle services__modal-icon"></i>
-                            <p className="services__modal-info">I develop secure smart contracts.</p>
+                            <p className="services__modal-info">I develop fast, productive APIs for the app.</p>
                         </li>
 
                         <li className="services__modal-service">
