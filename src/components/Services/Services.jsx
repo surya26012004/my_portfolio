@@ -92,7 +92,7 @@ const Services = () => {
 
                         <li className="services__modal-service">
                             <i className="uil uil-check-circle services__modal-icon"></i>
-                            <p className="services__modal-info">I develop the backend securely with MongoDB.</p>
+                            <p className="services__modal-info">I develop the backend securely with Postgres.</p>
                         </li>
 
                         <li className="services__modal-service">
